@@ -1,8 +1,8 @@
 # Stratosphere-Shader
 > "Technology of mankind springs from imagination, culminates in innovation; and imagination is the very soul of innovation."
 > ——Karry6767
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eff41c1b-d2fb-4977-aeb7-8cce71ffc3f0" />
-## Preface
+<img width="1600" height="829" alt="2 0" src="https://github.com/user-attachments/assets/17ad238f-670b-4cde-b957-d2efc1799009" />
+
 Hello everyone. This is my first time making a shader for Minecraft. Also, I spent half of my summer holiday learning Computer Graphics and Iris Shader.
 OK, my English level is like the mixing of POOP and PEE. Anyway, Let me show what the shader like.
 
@@ -30,6 +30,6 @@ This shader is based on NASA's lunar texture, with the addition of a moon phase 
 > I try my best to realize the independent orbit of the moon and make the sky become physically
 
 ## 3.Postscript
-* I admit that I used AI during the process of programming. But this was also for the sake of time. I only let the AI build the framework and edit the relatively simple content. The rest, such as volume clouds and atmospheric scattering, were all edited by me personally.
+* I admit that I used AI during the process of programming. But this was also for the sake of time. I only let the AI build the framework and edit the relatively simple content. The rest, such as physical water and atmospheric scattering, were all edited by me personally.
 I don't rely entirely on AI. While using AI, I also work on improving myself *
 But, thanks to download this shaderpacks. I studied in an extremely strict school where there was very little free time. If you have any questions, you can leave them on my [Steam account](https://steamcommunity.com/id/pornandsexes/)
